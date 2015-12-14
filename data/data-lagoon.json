@@ -28,7 +28,7 @@ window.hha.lagoon = {
 		{ number: 3209, dock: '23a' },
 		{ number: 3308, dock: '23b' },
 		{ number: 3272, dock: '24a' },
-		{ number: 3275, dock: '25b' },
+		{ number: 3275, dock: '25a' },
 		{ number: 3615, dock: '27b' },
 		{ number: 3238, dock: '28a' },
 		{ number: 3241, dock: '29b' },
@@ -68,7 +68,7 @@ window.hha.lagoon = {
 	
 	commerce: [
 		{ number: 3450, dock: '11b' },
-		{ number: 3480, dock: '25a' },
+		{ number: 3480, dock: '25b' },
 		{ number: 3398, dock: '29a' }
 	]
 };
