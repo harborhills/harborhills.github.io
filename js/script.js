@@ -10,8 +10,7 @@ $(function(){
 		hash = window.location.hash;
 
 	$('footer a').click(function(e){
-		$.scrollTo($(this).attr('href'), 800, function(){
-		});
+		$.scrollTo($(this).attr('href'), 800);
 		e.preventDefault();
 	});
 
